@@ -23,13 +23,13 @@ h1 {
   font-size: 20px;
 }
 a {
+   border: 5px solid cyan;
+  background-color:darkslateblue;
+  color: white;
   display: block;
-  border: 5px solid forestgreen;
   border-radius: 30px;
   text-align: center;
   justify-content: center;
-  background-color: gray;
-  color: black;
   padding: 5px;
   margin: 70px 0 0;
   font-size: large;
@@ -67,7 +67,7 @@ a {
   border-radius: 30px;
   text-align: center;
   justify-content: center;
-  background-color: gray;
+  background-color: black;
   color: blue;
   padding: 5px;
   margin: 10px 400px 0;
@@ -75,6 +75,9 @@ a {
 }
 #second-text a {
   margin: 10px 0 0;
+  border: 5px solid cyan;
+  background-color:darkslateblue;
+  color: white;
 }
 #first-images1 img {
   position: absolute;
@@ -103,7 +106,7 @@ a {
   border-radius: 30px;
   text-align: center;
   justify-content: center;
-  background-color: gray;
+  background-color: black;
   color: blue;
   padding: 5px;
   margin: 265px 400px 0;
